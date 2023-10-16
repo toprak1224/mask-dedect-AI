@@ -25,8 +25,8 @@ python dedect-mask-video.py
 
 ## Images From The Application
 
-![](https://github.com/Melihemin/mask-dedection/blob/main/screenshot/nomask.png)
-![](https://github.com/Melihemin/mask-dedection/blob/main/screenshot/mask.png)
+![](https://github.com/toprak1224/mask-dedect-AI/blob/main/screenshot/mask.png)
+![](https://github.com/toprak1224/mask-dedect-AI/blob/main/screenshot/nomask.png)
 
 ## Accuracy (Validation/Train Loss/Accuracy)
 
