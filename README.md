@@ -1,12 +1,12 @@
-# Mask Dedection
+# Maske Algılama
 
-## Install / Setup Package
+## Kurulum / Kurulum Paketi
 
 ```
 pip install - r requirements.txt
 ```
 
-## Packages Used
+## Kullanılan Paketler
   - Tensorflow
   - Keras
   - Numpy
@@ -23,14 +23,14 @@ pip install - r requirements.txt
 python dedect-mask-video.py
 ```
 
-## Images From The Application
+## Uygulamadan Görseller
 
 ![](https://github.com/toprak1224/mask-dedect-AI/blob/main/screenshot/mask.png)
 ![](https://github.com/toprak1224/mask-dedect-AI/blob/main/screenshot/nomask.png)
 
-## Accuracy (Validation/Train Loss/Accuracy)
+## Doğruluk (Doğrulama/Tren Kaybı/Doğruluk)
 
 ![](https://github.com/toprak1224/mask-dedect-AI/blob/main/plot.png)
 
-## Feedback
+## Geri bildirim
 Gmail : toprakerkoc5@gmail.com
