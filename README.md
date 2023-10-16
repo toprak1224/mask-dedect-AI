@@ -30,7 +30,7 @@ python dedect-mask-video.py
 
 ## Accuracy (Validation/Train Loss/Accuracy)
 
-![](https://github.com/Melihemin/mask-dedection/blob/main/plot.png)
+![](https://github.com/toprak1224/mask-dedect-AI/blob/main/plot.png)
 
 ## Feedback
 Gmail : toprakerkoc5@gmail.com
